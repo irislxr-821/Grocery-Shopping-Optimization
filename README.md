@@ -45,5 +45,5 @@ The purpose of this project is to provide people with an accessible way to obtai
 
 ## Files
 Refer to Optimization-Report.pdf for detailed procedural explanations. <br>
-[Optimization-Report.pdf](Grocery-Shopping-Optimization/Optimization-Report.pdf)
+[Optimization-Report.pdf](Optimization-Report.pdf)
 Refer to Optimization-Code.ipynb for the Python code.
