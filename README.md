@@ -44,6 +44,6 @@ The purpose of this project is to provide people with an accessible way to obtai
 •	Traveling Preferences: To ensure users can easily access the recommended locations, they are encouraged to specify their preferred traveling method, traveling time, as well as the maximum number of stores they are willing to visit.  <br>
 
 ## Files
-Refer to Optimization-Report.pdf for detailed procedural explanations. <br>
-[Optimization-Report.pdf](Optimization-Report.pdf)
+Refer to [Optimization-Report.pdf](Optimization-Report.pdf)for detailed procedural explanations. <br>
+
 Refer to Optimization-Code.ipynb for the Python code.
