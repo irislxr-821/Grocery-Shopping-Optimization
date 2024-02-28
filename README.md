@@ -39,9 +39,9 @@ The output of the linear optimization model determined Joe’s No Frills as the 
 ## Conclusion
 The purpose of this project is to provide people with an accessible way to obtain cheaper food while satisfying nutritional requirements. Therefore, to make the whole process more convenient, we recommend developing a mobile application that focuses on customizing the grocery shopping list for an individual user at the lowest cost. Building upon the basis of our model, the application should include three major functionalities. 
 <br>
-•	Customization: Allow users to input their personal information, such as age, weight, height, and workout habits. The application will automatically calculate the best nutritional intake suggestion to ensure a healthy diet. <br>
-•	Dietary Preferences: The algorithm will also seek to meet all the preferences that a particular user has. For instance, referring to the previous section, more claims, such as vegan and gluten-free. Users can also incorporate specific recipes into their diets. <br>
-•	Traveling Preferences: To ensure users can easily access the recommended locations, they are encouraged to specify their preferred traveling method, traveling time, as well as the maximum number of stores they are willing to visit.  <br>
+•	_Customization:_ Allow users to input their personal information, such as age, weight, height, and workout habits. The application will automatically calculate the best nutritional intake suggestion to ensure a healthy diet. <br>
+•	_Dietary Preferences:_ The algorithm will also seek to meet all the preferences that a particular user has. For instance, referring to the previous section, more claims, such as vegan and gluten-free. Users can also incorporate specific recipes into their diets. <br>
+•	_Traveling Preferences:_ To ensure users can easily access the recommended locations, they are encouraged to specify their preferred traveling method, traveling time, as well as the maximum number of stores they are willing to visit.  <br>
 
 ## Files
 Refer to [Optimization-Report.pdf](Optimization-Report.pdf) for detailed procedural explanations. <br>
