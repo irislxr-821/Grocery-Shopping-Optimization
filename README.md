@@ -1,5 +1,5 @@
 # Grocery-Shopping-Optimization
-Tools: Python (Gurobi Package)
+Tool: Python (Gurobi Package)
 ## Description
 As a student, I faced challenges in finding affordable, quick, and nutritious food options. This spurred me to launch a project aimed at developing a model that offers users personalized, low-cost grocery lists. This model considers individual nutritional needs and travel time, catering to others facing similar issues.
 
