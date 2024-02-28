@@ -7,7 +7,7 @@ As a student, I faced challenges in finding affordable, quick, and nutritious fo
 The model aimed to minimize grocery and travel costs while adhering to constraints on transportation, nutrition, diversity, and allergies. It was designed to recommend the most cost-effective store and mode of transportation for grocery shopping, with the option for users to pre-select their travel method. Initially, it assumed the user lived on the University of Toronto campus, focusing on selections from seven specific stores and various transportation options, including driving, walking, biking, and public transport. To illustrate its adaptability, the model also accounted for specific dietary restrictions, such as a peanut allergy.
 
 <p align="center">
-<img src="./images/Location-Map.png" width="50%" > 
+<img src="./images/Location-Map.png" width="70%" > 
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ The optimization model's data came from the University of Toronto's Food Labelli
 ## Methodology
 The objective function was composed of two parts. The first part was the cost of purchasing grocery items, which was calculated by the quantity of chosen items multiply the prices. The second part was the cost of traveling.
 <p align="center">
-<img src="./images/Objective Fuction.png" width="50%" > 
+<img src="./images/Objective Fuction.png" width="70%" > 
 </p>
 There are 6 different types of constraints:
 <br>
