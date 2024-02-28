@@ -21,6 +21,18 @@ The distance and time information were obtained by retrieving a distance matrix 
 
 
 ## Methodology
+The objective function was composed of two parts. The first part was the cost of purchasing grocery items, which was calculated by the quantity of chosen items multiply the prices. The second part was the cost of traveling.
+<p align="center">
+<img src="./images/Objective Fuction.png" width="50%" > 
+</p>
+There are 6 different types of contraints:
+<br>
+•	Frequency Constraint - Users only want to visit one store at a time <br>
+•	Travel Constraint - Control the amount of time a user is willing to spend on travel <br>
+•	Nutritional Constraint - Desired weekly nutritional intake <br>
+•	Diversity Constraint - To ensure variability of products in the input <br>
+•	Quantitiy Constraint - Control the quantitiy of each item in the output <br>
+•	Allergy Constraint - To exclude certain ingredients in the output <br>
 
 
 ## Results
